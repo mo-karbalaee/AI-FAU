@@ -29,7 +29,7 @@ the task was and how it was implemented.
 
 ### Movement Neuroscience
 
-- [Exercise 1](https://github.com/mo-karbalaee/movement-neuroscience/tree/5b48ddd4c0cb4dcd7a08e21fc1bc90040a931126/Exercise%201)
+- [Exercise 1: Processing EMG Signals](https://github.com/mo-karbalaee/movement-neuroscience/tree/5b48ddd4c0cb4dcd7a08e21fc1bc90040a931126/Exercise%201)
 - [Exercise 2](https://github.com/mo-karbalaee/movement-neuroscience/tree/5b48ddd4c0cb4dcd7a08e21fc1bc90040a931126/Exercise%202)
 
 ### Deep Learning for Beginners
