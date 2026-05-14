@@ -26,3 +26,10 @@
 
 - [Exercise 1](https://github.com/mo-karbalaee/movement-neuroscience/tree/main/Exercise%201)
 - [Exercise 2](https://github.com/mo-karbalaee/movement-neuroscience/tree/main/Exercise%202)
+
+## Deep Learning for Beginners
+
+## Machine Learning for Engineers 1
+
+## Machine Learning for Engineers 2
+
