@@ -10,6 +10,8 @@
 
 ## Introduction to Machine Learning
 
+- [Exercise 0: Warmup](https://github.com/mo-karbalaee/IntroML/tree/884f9924073b69f0b4bdfd0892c90365cb6776b3/ex_0)
+
 ## Biomedical Image Processing Project
 
 ## Information Visualization 
