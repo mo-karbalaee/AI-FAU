@@ -1,35 +1,40 @@
-# Summer 2026
+# AI@FAU
 
-## Deep Learning
+The goal is to have a notebook for every exercise or project that helps the reader walk through what
+the task was and how it was implemented. 
 
-## Interfacing Neuromascular Systems Laboratory
+## Summer 2026
 
-## Applied Software Engineering Project
+### Deep Learning
 
-## Advanced Topics in Deep Learning
+### Interfacing Neuromascular Systems Laboratory
 
-## Introduction to Machine Learning
+### Applied Software Engineering Project
+
+### Advanced Topics in Deep Learning
+
+### Introduction to Machine Learning
 
 - [Exercise 0: Warmup](https://github.com/mo-karbalaee/IntroML/tree/884f9924073b69f0b4bdfd0892c90365cb6776b3/ex_0)
 
-## Biomedical Image Processing Project
+### Biomedical Image Processing Project
 
-## Information Visualization 
+### Information Visualization 
 
-##  Additional 
+### Additional 
 
 ---
 
-# Winter 2025/2026
+## Winter 2025/2026
 
-## Movement Neuroscience
+### Movement Neuroscience
 
-- [Exercise 1](https://github.com/mo-karbalaee/movement-neuroscience/tree/main/Exercise%201)
-- [Exercise 2](https://github.com/mo-karbalaee/movement-neuroscience/tree/main/Exercise%202)
+- [Exercise 1]([https://github.com/mo-karbalaee/movement-neuroscience/tree/main/Exercise%201](https://github.com/mo-karbalaee/movement-neuroscience/tree/5b48ddd4c0cb4dcd7a08e21fc1bc90040a931126/Exercise%201))
+- [Exercise 2]([https://github.com/mo-karbalaee/movement-neuroscience/tree/main/Exercise%202](https://github.com/mo-karbalaee/movement-neuroscience/tree/5b48ddd4c0cb4dcd7a08e21fc1bc90040a931126/Exercise%202))
 
-## Deep Learning for Beginners
+### Deep Learning for Beginners
 
-## Machine Learning for Engineers 1
+### Machine Learning for Engineers 1
 
-## Machine Learning for Engineers 2
+### Machine Learning for Engineers 2
 
