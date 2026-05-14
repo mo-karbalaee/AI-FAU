@@ -1,2 +1,19 @@
-# AI-FAU
-Here track of the projects and exercises that I've done during my master's studies at FAU Erlangen-Nürnberg
+# Summer 2026
+
+## Deep Learning
+
+## Interfacing Neuromascular Systems Laboratory
+
+## Applied Software Engineering Project
+
+## Advanced Topics in Deep Learning
+
+## Introduction to Machine Learning
+
+## Biomedical Image Processing Project
+
+## Information Visualization 
+
+##  Additional 
+
+---
