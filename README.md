@@ -1,5 +1,7 @@
 # AI@FAU
 
+<img src="FAU_logo.png"/>
+
 The goal is to have a notebook for every exercise or project that helps the reader walk through what
 the task was and how it was implemented. 
 
