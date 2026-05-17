@@ -38,3 +38,8 @@ the task was and how it was implemented.
 
 ### Machine Learning for Engineers 2
 
+---
+
+# Additional Projects
+
+Here make a list of other projects and courses that you followed for learning. 
