@@ -5,7 +5,7 @@
 The goal is to have a notebook for every exercise or project that helps the reader walk through what
 the task was and how it was implemented. 
 
-## Summer 2026
+## 🔆 Summer 2026
 
 ### Deep Learning
 
@@ -27,7 +27,7 @@ the task was and how it was implemented.
 
 ---
 
-## Winter 2025/2026
+## ❄️ Winter 2025/2026
 
 ### Movement Neuroscience
 
@@ -42,6 +42,6 @@ the task was and how it was implemented.
 
 ---
 
-# Additional Projects
+#  Additional Projects
 
 Here make a list of other projects and courses that you followed for learning. 
